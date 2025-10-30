@@ -51,12 +51,6 @@ public class ProductsAdapter extends RecyclerView.Adapter{
             this.title = viewItem.findViewById(R.id.product_title);
             this.description = viewItem.findViewById(R.id.product_description);
             this.image = viewItem.findViewById(R.id.immagine);
-
-
         }
-
     }
-
-
 }
-

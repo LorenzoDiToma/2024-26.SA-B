@@ -8,5 +8,4 @@ public class ProductRoot {
     Long total;
     Long skip ;
     Long limit ;
-
 }
